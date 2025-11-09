@@ -1,0 +1,101 @@
+cliente_id,nome,email,pais,data_registo
+1,Santiago Abreu-Guerreiro,marcio43@example.com,Portugal,2024-06-30
+2,David Amaral,lisandrotorres@example.org,Espanha,2022-10-19
+3,Eva da Nascimento,dmorais@example.org,PT,2024/99/99
+4,Petra Marques,moraisanita@example.com,PT,2024-12-04
+5,Lorena Pinheiro,gbatista@example.net,Portugal,2024-04-19
+6,David Neves,icarvalho@example.net,Portugal,2022-10-13
+7,Lorena da Simões,,Espanha,2020-12-06
+8,Lia Miranda,azevedonuno@example.com,Portugall,2024-05-16
+1,Márcio do Silva,,Espanha,2022-03-06
+10,Vitória Martins-Abreu,evatavares@example.org,PT,2020-09-22
+11,Júlia da Freitas,vicentepilar@example.net,Espanha,2021-02-09
+12,Jorge Andrade,pbrito@example.com,Brasil,2024-10-16
+13,Irina Nascimento,valentimmarques@example.org,Portugal,2024-12-28
+14,Erica Nascimento,yleal@example.org,Espanha,2020-10-06
+15,Júlia Valente,vfonseca@example.com,Brasil,2023-04-21
+16,Victória Pereira,cardosoluisa@example.com,Espanha,2019-09-07
+17,Samuel Morais,isabel98@example.org,Brasil,2020-11-23
+18,Isabel Baptista,constanca07@example.com,Angola,2021-12-09
+19,Andreia Batista,filipe43@example.com,,2023-08-17
+20,Rúben Leite,gillourenco@example.com,Brasil,2022-02-01
+21,Violeta Nunes,lauramorais@example.com,PT,2023-03-20
+22,Juliana Pinto,marta40@example.com,Portugal,2022-05-13
+23,Ângela Batista,lauracarneiro@example.org,Angola,2019-10-04
+24,Bruna Reis-Paiva,alvesjose@example.org,Brasil,2020-08-10
+25,Bernardo Magalhães-Garcia,salomecunha@example.net,Portugall,2020-10-13
+26,Violeta Borges,bnascimento@example.net,Brasil,2022-06-29
+27,Diana Branco,irocha@example.org,PT,2021-04-24
+28,Fabiana da Marques,jbarros@example.net,PT,2022-08-26
+1,Bruno Carvalho,cruzlucas@example.org,Brasil,2019-04-11
+30,Tiago Barros-Miranda,sem_email,,2021-02-05
+31,Lorena Ramos-Leal,andreiamartins@example.org,Portugal,2022-06-25
+32,Lara-Anita Carvalho,iris70@example.net,Angola,2019-02-05
+33,Sandro Baptista-Teixeira,tneto@example.com,Brasil,2024-11-26
+34,Duarte Assunção,santosjaime@example.org,Brasil,2022-01-08
+35,Luciana Silva,martim49@example.com,Brasil,2023-11-11
+36,Luciana Gonçalves-Machado,erikalima@example.com,PT,2023-03-29
+37,Camila Figueiredo,andreiaamorim@example.com,Portugall,2023-03-24
+38,Joana Sousa,araujovasco@example.com,Portugall,2020-10-26
+39,Vera Cruz,barrosrafaela@example.net,Espanha,2023-07-24
+40,Salvador Freitas,ssousa@example.org,Brasil,2022-12-10
+41,Irina Barbosa,biancacarvalho@example.net,PT,2020-02-20
+42,Isabel Matias-Mota,matilde96@example.org,Espanha,2022-09-12
+43,Kyara Brito-Barros,kevin73@example.org,,2023-11-01
+2,Simão do Silva,tiago22@example.net,Portugal,2024-04-03
+45,Lisandro Figueiredo,zmarques@example.net,Portugal,2020-01-02
+46,Helena Lourenço,martimguerreiro@example.org,Angola,2021-06-14
+47,Teresa-Emília Guerreiro,arturborges@example.org,Espanha,2024-07-31
+48,Renata Lima,luciana92@example.net,Portugall,2022-09-22
+49,Sebastião Neto,vmachado@example.com,Brasil,2023-03-14
+50,Mara Ramos,moreiralaura@example.org,Angola,2023-12-25
+51,Vicente Cardoso,vitorandrade@example.org,PT,2022-04-11
+52,Guilherme Nunes,josenascimento@example.net,Brasil,2022-12-12
+53,Gabriela Teixeira,gamaral@example.net,PT,2020-02-14
+54,Sofia da Freitas,mendeswilliam@example.org,Brasil,2020-01-04
+55,Luca Amaral,magalhaesandre@example.com,Angola,2020-12-31
+56,William de Azevedo,sebastiaoneves@example.org,Angola,2021-11-18
+57,Ana Carvalho,ocosta@example.org,Espanha,2019-03-08
+58,Matias Moura,macedoanita@example.org,Portugal,2022-08-16
+59,João Lourenço,lorenaneves@example.org,,2024-01-24
+60,Henrique Lima,dinis32@example.org,PT,2020-05-23
+61,Kévim Pires,igor20@example.com,PT,2022-06-01
+62,Edgar da Amaral,gaspar81@example.org,Portugal,2022-06-16
+63,Ivan Matos,nicole52@example.com,Portugall,2021-09-10
+64,Márcio Gonçalves,cruzbenedita@example.org,Portugall,2022-04-23
+65,Íris do Borges,afonso58@example.org,Portugall,2021-05-14
+66,Carlos Cunha,qfigueiredo@example.com,Portugal,2022-09-08
+67,Tomé Jesus-Fernandes,garciaricardo@example.net,Portugal,2023-04-19
+68,Carolina Nunes,mendesemanuel@example.org,Portugall,2024-12-10
+69,Matilde Neto-Marques,franciscaneves@example.net,,2021-07-07
+70,Letícia Martins-Mendes,lneto@example.org,Portugal,2024-06-26
+71,Cristiano Abreu,sem_email,Espanha,2019-02-05
+72,Carlota de Lourenço,utorres@example.com,PT,2019-07-28
+73,Vasco Antunes,guilhermemiranda@example.com,Brasil,2019-01-22
+74,Margarida Pires,ritaleal@example.org,,2022-04-17
+75,Yara Pinheiro,gabriel90@example.net,Portugal,2019-01-12
+76,Emma Domingues,ipinto@example.net,Brasil,20-13-2023
+77,Gustavo Teixeira,martinsisabela@example.org,Portugall,2021-12-03
+78,Valentina Neto,antunesgustavo@example.net,Espanha,2022-08-16
+79,Maria Machado,larissabranco@example.com,Espanha,2020-03-10
+80,Joaquim Correia,araujoemilia@example.net,,2021-10-21
+81,José Vieira,filipacampos@example.org,Portugal,2019-06-08
+82,Lorena Vaz-Carvalho,clara09@example.com,Angola,2020-12-02
+83,Erica Nunes,,Brasil,2019-07-24
+84,Pilar Ferreira-Pinho,cteixeira@example.org,,2019-04-04
+85,Mariana Reis-Fonseca,kyarabaptista@example.com,Espanha,2024-09-13
+86,Vera do Cunha,daniel16@example.com,Portugall,2022-03-02
+87,Patrícia Sousa,gomesluciana@example.org,Portugal,2021-12-10
+88,Luciana Correia,ocosta@example.com,,2023-01-14
+89,Noa Cruz,leandro19@example.net,,2022-06-09
+90,Valentina-Gabriela Martins,mafalda40@example.com,Espanha,2019-02-28
+91,Ivan Torres,nascimentoclara@example.net,Angola,2019-05-29
+92,Daniel Pereira,miriam80@example.org,Espanha,2024-06-25
+93,Vicente de Coelho,smarques@example.com,,2023-11-27
+94,Mateus Martins,cesarloureiro@example.com,Espanha,2020-04-01
+95,Simão Costa,jloureiro@example.org,,2024-02-08
+96,Tatiana Torres,iristorres@example.com,Espanha,2024-11-29
+97,Rita Nogueira,nunesalice@example.com,Angola,2022-02-16
+98,Vera Soares,tcardoso@example.org,PT,2024-12-17
+99,Rodrigo Carneiro,ugomes@example.com,Portugall,2021-06-25
+100,Luísa Carneiro,rafaelnunes@example.net,Espanha,2022-11-22
